@@ -1,0 +1,11 @@
+{ "columns":4,
+ "image":"miniTileset.png",
+ "imageheight":48,
+ "imagewidth":64,
+ "margin":0,
+ "name":"miniTilest",
+ "tilecount":12,
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset"
+}

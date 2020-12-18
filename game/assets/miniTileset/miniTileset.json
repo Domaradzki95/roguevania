@@ -1,0 +1,58 @@
+{"Tiles": [
+
+{
+	"name": "clouds_03.png",
+	"pos": {"x":0,"y":0}
+},
+{
+	"name": "fence.png",
+	"pos": {"x":16,"y":0}
+},
+{
+	"name": "flower-red.png",
+	"pos": {"x":32,"y":0}
+},
+{
+	"name": "grass-empty2.png",
+	"pos": {"x":48,"y":0}
+},
+{
+	"name": "grass-platform.png",
+	"pos": {"x":0,"y":16}
+},
+{
+	"name": "grass-top.png",
+	"pos": {"x":16,"y":16}
+},
+{
+	"name": "grass.png",
+	"pos": {"x":32,"y":16}
+},
+{
+	"name": "grass1.png",
+	"pos": {"x":48,"y":16}
+},
+{
+	"name": "sign-right.png",
+	"pos": {"x":0,"y":32}
+},
+{
+	"name": "skeleton.png",
+	"pos": {"x":16,"y":32}
+},
+{
+	"name": "sky2_08.png",
+	"pos": {"x":32,"y":32}
+},
+{
+	"name": "sky_01.png",
+	"pos": {"x":48,"y":32}
+}],
+"global": {
+	"image": "miniTileset.png",
+	"TilemapSize": {"w":64,"h":48},
+	"scale": "1",
+	"w": 16,
+	"h": 16
+}
+}
